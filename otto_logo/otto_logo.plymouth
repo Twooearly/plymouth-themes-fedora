@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=otto_logo
+Description=display abstract ring
+Comment=created By Aditya Shakya (@adi1090x)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/otto_logo
+ScriptFile=/usr/share/plymouth/themes/otto_logo/otto_logo.script
